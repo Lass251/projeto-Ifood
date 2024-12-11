@@ -1,0 +1,31 @@
+O QUE RESTA FAZER:
+
+//        Length()        Para visualizar o tamanho da string. Retorna um inteiro
+//        Trim()          Para remover os espaços ao escrever
+//        JOptionPane.showMessageDialog(null, "ERROR: Name canot be blanck");         Mostra um texto afirmando que o textField esta em branco 
+//        Contains("")    Para verificar se há presença de alguma letra ou plavra na string. Retorna boolean (true or false)
+
+
+
+ORGANIZAÇÃO DO PACOTE CLASSES:
+
+Produto_do_Estabelecimento.java         ORGANIZADO          ✔
+Nome_do_Estabelecimento.java            DESORGANIZADO       ✖
+Consumidor_backup.java                  DESORGANIZADO       ✖
+Estabelecimento_backup.java             DESORGANIZADO       ✖
+
+ORGANIZAÇÃO DO PACOTE testes:
+
+Testes.java                             ORGANIZADO          ✔
+TelaINICIAL.java                        ORGANIZADO          ✔
+Login_Estabelecimento.java              ORGANIZADO          ✔
+Cadastro_Estabelecimento.java           ORGANIZADO          ✔
+Cadastro_Pessoa.java                    ORGANIZADO          ✔
+Criando_Restaurante.java                ORGANIZADO          ✔
+
+CENAS QUE CONTÉM ARRAYLIST E(OU) POSSUEM VERIFICAÇÃO:
+
+Cena_cadastro.fxml                      CONTÉM E VERIFICADA                 ✔
+SceneTHEREE.fxml                        CONTÉM E VERIFICADA                 ✔
+Criando_Restaurante.fxml                CONTÉM NÃO VERIFICADA               🔴   
+Criando_Produto.fxml                    CONTÉM NÃO VERIFICADA               🔴
