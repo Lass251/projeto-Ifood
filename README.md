@@ -10,3 +10,9 @@ Desenvolver um aplicativo que simule o funcionamento do app Ifood usando interfa
 # Contexto
 o objetivo da criação desse projeto é testa o conhecimentos adiquiridos na matéria programação 2 do segundo periodo de engenharia da computação, sendo avaliado a Utilização de Herança, a Organização e Legibilidade do Código, a Aplicação de Classes e Objetos, a Utilização de Polimorfismo e Utilização de Interface, utilizados na criação de um aplicativo que emula o app de entregras Ifood.
 # Funcionalidades 
+no nosso código, existem dois tipos de usuários: dono de restaurante e usuário comum.
+para ambos, é possivel criar uma conta e logar no programa.
+
+para o dono de restaurante, é possivel ver os produtos cadastrados da loja, assim como cadastrar produtos e deletar produtos dentro da lista.
+
+para o usuário, é possivel ver os itens das lojas e adicionar em um carrinho. quando adicionado, é possivel ver o preço total dos itens e o tempo resultante de preparo.
